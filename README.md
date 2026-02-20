@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Features
+## Features
     
     - Gradient Descent optimization  
     - Optional feature scaling  
@@ -16,7 +16,7 @@
 
 ---
 
-## 📂 Project Structure
+## Project Structure
     
     LinearReg_Implementation/
     │
@@ -27,7 +27,7 @@
 
 ---
 
-## 📦 Installation (optional)
+## Installation (optional)
 
     If you want to import it like a package:
         pip install -e .
@@ -35,7 +35,7 @@
 
 ---
 
-## ▶️ How to Run the Example
+## How to Run the Example
 
     python -m LinearReg_Implementation.examples.test_linear_reg
 
